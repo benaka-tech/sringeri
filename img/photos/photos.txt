@@ -1,0 +1,8 @@
+
+file:///C:\Users\Benaka\PycharmProjects\pythonProject\img\photos\photos-20210312154915.png
+file:///C:\Users\Benaka\PycharmProjects\pythonProject\img\photos\photos-20210312155800.png
+file:///C:\Users\Benaka\PycharmProjects\pythonProject\img\photos\photos-20210312160131.png
+file:///C:\Users\Benaka\PycharmProjects\pythonProject\img\photos\photos-20210312160140.png
+file:///C:\Users\Benaka\PycharmProjects\pythonProject\img\photos\photos-20210312160141.png
+file:///C:\Users\Benaka\PycharmProjects\pythonProject\img\photos\photos-20210312160504.png
+file:///C:\Users\Benaka\PycharmProjects\pythonProject\img\photos\photos-20210312160614.png
